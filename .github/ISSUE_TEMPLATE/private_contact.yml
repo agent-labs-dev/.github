@@ -1,0 +1,16 @@
+name: Private contact request
+description: Ask for a private channel to report a vulnerability or conduct concern, where the Security tab has no report button.
+title: Private contact request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This issue is public. Write no details of the problem here: a maintainer will reply with a private channel.
+        Use the repository's **Security** tab instead when it offers **Report a vulnerability**.
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: This issue contains no details of the vulnerability or concern.
+          required: true

@@ -6,8 +6,8 @@ Report a vulnerability privately, never in a public issue, pull request or discu
 
 Open the affected repository's **Security** tab and choose **Report a vulnerability**. The report
 becomes a private GitHub security advisory that only the maintainers and you can see. Where a repository
-does not offer that button, open an issue titled "Private contact request" with no details, and a
-maintainer will reply with a private channel.
+does not offer that button, open an issue with the **Private contact request** form, which asks for no
+details, and a maintainer will reply with a private channel.
 
 Include:
 

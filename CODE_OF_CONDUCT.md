@@ -11,8 +11,8 @@ person. Harassment, discrimination and personal attacks are not tolerated.
 
 Report a conduct concern privately to the maintainers through the affected repository's **Security**
 tab, with **Report a vulnerability**. The report is visible only to the maintainers and you. Where a
-repository does not offer that button, open an issue titled "Private contact request" with no details,
-and a maintainer will reply with a private channel.
+repository does not offer that button, open an issue with the **Private contact request** form, which asks
+for no details, and a maintainer will reply with a private channel.
 
 Reports are handled confidentially. Enforcement follows the Contributor Covenant's community impact
 guidelines: correction, warning, temporary ban or permanent ban.
